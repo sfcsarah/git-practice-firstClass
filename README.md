@@ -4,4 +4,4 @@ Should I use Sublime text 3 or Typora?
 
 actually, add to that. Best to use atom.io. Looks prettier
 
-Should it be about prettiness?
+change from new folder
